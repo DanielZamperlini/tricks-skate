@@ -1,0 +1,310 @@
+{
+  "manobras": {
+    "iniciante": [
+      {
+        "id": 1,
+        "nome": "Ollie",
+        "descricao": "Fundamental para todas as manobras, onde o skatista pula com o skate."
+      },
+      {
+        "id": 2,
+        "nome": "Fakie Ollie",
+        "descricao": "Ollie partindo do fakie, sem alterar a posição dos pés."
+      },
+      {
+        "id": 3,
+        "nome": "Nollie",
+        "descricao": "Ollie feito com o pé da frente, proporcionando novas variações."
+      },
+      {
+        "id": 4,
+        "nome": "Switch Ollie",
+        "descricao": "Ollie na base trocada, aumentando o nível de dificuldade."
+      },
+      {
+        "id": 5,
+        "nome": "Shove-it",
+        "descricao": "Rotação de 180° do shape sem flip, mantendo os pés fixos."
+      },
+      {
+        "id": 6,
+        "nome": "Fakie Shove-it",
+        "descricao": "A mesma ideia do shove-it, mas saindo do fakie."
+      },
+      {
+        "id": 7,
+        "nome": "Nollie Shove-it",
+        "descricao": "Executado a partir do nollie, dificultando o controle."
+      },
+      {
+        "id": 8,
+        "nome": "Switch Shove-it",
+        "descricao": "Variante shove-it na base trocada."
+      },
+      {
+        "id": 9,
+        "nome": "Pop Shove-it",
+        "descricao": "Shove-it com pop para ganhar mais altura."
+      },
+      {
+        "id": 10,
+        "nome": "Fakie Pop Shove-it",
+        "descricao": "Pop shove-it saindo do fakie, adicionando mais estilo."
+      },
+      {
+        "id": 11,
+        "nome": "Nollie Pop Shove-it",
+        "descricao": "Pop shove-it partindo do nollie, exigindo precisão."
+      },
+      {
+        "id": 12,
+        "nome": "Switch Pop Shove-it",
+        "descricao": "Pop shove-it na base trocada."
+      },
+      {
+        "id": 13,
+        "nome": "Varial Shove-it",
+        "descricao": "Shove-it combinado com rotação do corpo."
+      },
+      {
+        "id": 14,
+        "nome": "Frontside 180 Ollie",
+        "descricao": "Ollie girando 180° para frente."
+      },
+      {
+        "id": 15,
+        "nome": "Backside 180 Ollie",
+        "descricao": "Ollie girando 180° para trás."
+      },
+      {
+        "id": 16,
+        "nome": "Fakie Frontside 180",
+        "descricao": "Saindo do fakie e girando para frente."
+      },
+      {
+        "id": 17,
+        "nome": "Fakie Backside 180",
+        "descricao": "Saindo do fakie e girando para trás."
+      },
+      {
+        "id": 18,
+        "nome": "Nollie Frontside 180",
+        "descricao": "Ollie partindo do nollie e girando para frente."
+      },
+      {
+        "id": 19,
+        "nome": "Nollie Backside 180",
+        "descricao": "Ollie partindo do nollie e girando para trás."
+      },
+      {
+        "id": 20,
+        "nome": "Switch 180 Ollie",
+        "descricao": "Giro de 180° na base oposta."
+      }
+    ],
+    "intermediario": [
+      {
+        "id": 21,
+        "nome": "Kickflip",
+        "descricao": "Flip lateral clássico girando o shape."
+      },
+      {
+        "id": 22,
+        "nome": "Heelflip",
+        "descricao": "Versão do kickflip usando o calcanhar."
+      },
+      {
+        "id": 23,
+        "nome": "Varial Kickflip",
+        "descricao": "Kickflip combinado com um shove-it."
+      },
+      {
+        "id": 24,
+        "nome": "Hardflip",
+        "descricao": "Kickflip cruzado com um front shove-it."
+      },
+      {
+        "id": 25,
+        "nome": "Tre Flip",
+        "descricao": "Kickflip com 360 shove-it."
+      },
+      {
+        "id": 26,
+        "nome": "Impossible",
+        "descricao": "O shape gira ao redor do pé de trás."
+      },
+      {
+        "id": 27,
+        "nome": "Bigspin",
+        "descricao": "360 shove-it enquanto o skatista gira 180°."
+      },
+      {
+        "id": 28,
+        "nome": "Frontside Flip",
+        "descricao": "Frontside 180 combinado com kickflip."
+      },
+      {
+        "id": 29,
+        "nome": "Backside Flip",
+        "descricao": "Backside 180 combinado com kickflip."
+      },
+      {
+        "id": 30,
+        "nome": "Boardslide",
+        "descricao": "Deslizar o shape sobre um corrimão."
+      },
+      {
+        "id": 31,
+        "nome": "Lipslide",
+        "descricao": "Similar ao boardslide, mas com entrada oposta."
+      },
+      {
+        "id": 32,
+        "nome": "Blunt Stall",
+        "descricao": "Parada no topo do obstáculo com o tail."
+      },
+      {
+        "id": 33,
+        "nome": "50-50 Grind",
+        "descricao": "Grind equilibrado nos dois eixos."
+      },
+      {
+        "id": 34,
+        "nome": "Casper Flip",
+        "descricao": "Flip que finaliza com o shape virado."
+      },
+      {
+        "id": 35,
+        "nome": "Primo Slide",
+        "descricao": "Deslizar sobre as laterais do shape."
+      },
+      {
+        "id": 36,
+        "nome": "Smith Grind",
+        "descricao": "Grind com o eixo traseiro abaixo do corrimão."
+      },
+      {
+        "id": 37,
+        "nome": "Feeble Grind",
+        "descricao": "Eixo dianteiro passando abaixo do obstáculo."
+      },
+      {
+        "id": 38,
+        "nome": "Nose Grind",
+        "descricao": "Grind equilibrando no eixo dianteiro."
+      },
+      {
+        "id": 39,
+        "nome": "Pressure Flip",
+        "descricao": "Flip gerado pela pressão do pé sem pop."
+      },
+      {
+        "id": 40,
+        "nome": "Kickflip Indy Grab",
+        "descricao": "Kickflip com um grab no ar."
+      }
+    ],
+    "avancado": [
+      {
+        "id": 41,
+        "nome": "Laser Flip",
+        "descricao": "360 heelflip com pop especial."
+      },
+      {
+        "id": 42,
+        "nome": "Darkslide",
+        "descricao": "Boardslide com o shape virado ao contrário."
+      },
+      {
+        "id": 43,
+        "nome": "McTwist",
+        "descricao": "Flip com giro de 540° em rampas."
+      },
+      {
+        "id": 44,
+        "nome": "Caballerial Flip",
+        "descricao": "360° fakie combinado com flip."
+      },
+      {
+        "id": 45,
+        "nome": "Muska Flip",
+        "descricao": "Hardflip com execução única."
+      },
+      {
+        "id": 46,
+        "nome": "Gazelle Spin",
+        "descricao": "Bigspin com rotação extra do corpo."
+      },
+      {
+        "id": 47,
+        "nome": "Bacon Flip",
+        "descricao": "Kickflip com rotação irregular e solta."
+      },
+      {
+        "id": 48,
+        "nome": "Backside Overcrook",
+        "descricao": "Grind técnico com entrada difícil."
+      },
+      {
+        "id": 49,
+        "nome": "Frontside Bluntslide",
+        "descricao": "Bluntslide realizado no lado frontside."
+      },
+      {
+        "id": 50,
+        "nome": "Nollie Hardflip",
+        "descricao": "Hardflip partindo da posição nollie."
+      },
+      {
+        "id": 51,
+        "nome": "Fakie Bigspin Flip",
+        "descricao": "Bigspin combinado com um flip partindo do fakie."
+      },
+      {
+        "id": 52,
+        "nome": "Switch 360 Flip",
+        "descricao": "Tre flip realizado na base trocada."
+      },
+      {
+        "id": 53,
+        "nome": "Kickflip Roast Beef Grab",
+        "descricao": "Kickflip combinado com um grab estilo Roast Beef."
+      },
+      {
+        "id": 54,
+        "nome": "Triple Heelflip",
+        "descricao": "Heelflip com três rotações completas."
+      },
+      {
+        "id": 55,
+        "nome": "Frontside 360 Ollie",
+        "descricao": "Giro completo de 360° no ar na direção frontside."
+      },
+      {
+        "id": 56,
+        "nome": "Backside 360 Ollie",
+        "descricao": "Giro completo de 360° no ar na direção backside."
+      },
+      {
+        "id": 57,
+        "nome": "Nollie 360 Flip",
+        "descricao": "Tre flip partindo do nollie, exigindo controle máximo."
+      },
+      {
+        "id": 58,
+        "nome": "Pressure Hardflip",
+        "descricao": "Hardflip gerado apenas pela pressão dos pés, sem pop."
+      },
+      {
+        "id": 59,
+        "nome": "Frontside Overcrook",
+        "descricao": "Grind técnico desafiador com entrada frontal."
+      },
+      {
+        "id": 60,
+        "nome": "Switch Bigspin Heel",
+        "descricao": "Bigspin heel realizado na base switch."
+      }
+    ]
+  }
+}

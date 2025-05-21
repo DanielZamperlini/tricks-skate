@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Manobras - Skate</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1> tricks de Skate</h1>
+    </header>
+
+    <main>
+      <section class="manobras-disponiveis">
+        <div class="section-header">
+          <h2><i class="fas fa-list"></i> Manobras Disponíveis</h2>
+        </div>
+        <div class="search-container">
+          <div class="search-box">
+            <i class="fas fa-search"></i>
+            <input type="text" id="searchInput" placeholder="Pesquisar manobras...">
+          </div>
+          <select id="dificuldadeFilter">
+            <option value="Iniciante" selected><i class="fas fa-star"></i> Iniciante</option>
+            <option value="Intermediário"><i class="fas fa-star"></i><i class="fas fa-star"></i> Intermediário</option>
+            <option value="Avançado"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> Avançado</option>
+            <option value="todas"><i class="fas fa-th-list"></i> Todas as dificuldades</option>
+          </select>
+        </div>
+        <div class="lista-manobras" id="manobrasDisponiveis">
+          <!-- Manobras serão inseridas aqui via JavaScript -->
+        </div>
+      </section>
+
+      <section class="minha-lista">
+        <div class="section-header">
+          <h2><i class="fas fa-clipboard-check"></i> Minha Lista de Treino</h2>
+        </div>
+        <div class="random-tricks-container">
+          <div class="random-tricks-input">
+            <input type="number" id="numManobras" min="1" max="10" value="5" placeholder="Número de manobras">
+            <select id="categoriaFilter">
+              <option value="todas">Todas as categorias</option>
+              <option value="Iniciante">Apenas Iniciante</option>
+              <option value="Intermediário">Apenas Intermediário</option>
+              <option value="Avançado">Apenas Avançado</option>
+              <option value="Iniciante,Intermediário">Iniciante + Intermediário</option>
+              <option value="Intermediário,Avançado">Intermediário + Avançado</option>
+            </select>
+            <button class="btn-aleatorio" onclick="gerarListaAleatoria()">
+              <i class="fas fa-random"></i> Gerar Lista de Treino
+            </button>
+          </div>
+        </div>
+        <div class="lista-manobras" id="minhaLista">
+          <!-- Manobras selecionadas serão inseridas aqui -->
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/manobras.js"></script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
