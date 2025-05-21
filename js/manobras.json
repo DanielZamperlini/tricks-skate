@@ -100,210 +100,360 @@
         "id": 20,
         "nome": "Switch 180 Ollie",
         "descricao": "Giro de 180° na base oposta."
+      },
+      {
+        "id": 21,
+        "nome": "Half Cab",
+        "descricao": "Backside 180 saindo do fakie."
+      },
+      {
+        "id": 22,
+        "nome": "Manual",
+        "descricao": "Equilibrar sobre as rodas traseiras em movimento."
+      },
+      {
+        "id": 23,
+        "nome": "Nose Manual",
+        "descricao": "Equilíbrio sobre as rodas dianteiras."
+      },
+      {
+        "id": 24,
+        "nome": "Boneless",
+        "descricao": "Manobra de rua onde o skatista segunda o skate com uma mão."
+      },
+      {
+        "id": 25,
+        "nome": "Caveman",
+        "descricao": "Entrada no skate segurando-o com uma mão e pulando."
+      },
+      {
+        "id": 26,
+        "nome": "Rail Stand",
+        "descricao": "Equilíbrio estático sobre o truck traseiro."
+      },
+      {
+        "id": 27,
+        "nome": "Tic-Tac",
+        "descricao": "Movimento de bombeamento usando giros curtos para ganhar velocidade."
+      },
+      {
+        "id": 28,
+        "nome": "Powerslide",
+        "descricao": "Deslizar as rodas traseiras em curva para frear ou fazer transições."
+      },
+      {
+        "id": 29,
+        "nome": "No Comply",
+        "descricao": "Manobra onde o pé dianteiro sai do shape para gerar impulso."
+      },
+      {
+        "id": 30,
+        "nome": "Body Varial",
+        "descricao": "Giro de 180° do corpo enquanto o skate permanece reto."
       }
     ],
     "intermediario": [
       {
-        "id": 21,
+        "id": 31,
         "nome": "Kickflip",
         "descricao": "Flip lateral clássico girando o shape."
       },
       {
-        "id": 22,
+        "id": 32,
         "nome": "Heelflip",
         "descricao": "Versão do kickflip usando o calcanhar."
       },
       {
-        "id": 23,
+        "id": 33,
         "nome": "Varial Kickflip",
         "descricao": "Kickflip combinado com um shove-it."
       },
       {
-        "id": 24,
+        "id": 34,
         "nome": "Hardflip",
         "descricao": "Kickflip cruzado com um front shove-it."
       },
       {
-        "id": 25,
+        "id": 35,
         "nome": "Tre Flip",
         "descricao": "Kickflip com 360 shove-it."
       },
       {
-        "id": 26,
+        "id": 36,
         "nome": "Impossible",
         "descricao": "O shape gira ao redor do pé de trás."
       },
       {
-        "id": 27,
+        "id": 37,
         "nome": "Bigspin",
         "descricao": "360 shove-it enquanto o skatista gira 180°."
       },
       {
-        "id": 28,
+        "id": 38,
         "nome": "Frontside Flip",
         "descricao": "Frontside 180 combinado com kickflip."
       },
       {
-        "id": 29,
+        "id": 39,
         "nome": "Backside Flip",
         "descricao": "Backside 180 combinado com kickflip."
       },
       {
-        "id": 30,
+        "id": 40,
         "nome": "Boardslide",
         "descricao": "Deslizar o shape sobre um corrimão."
       },
       {
-        "id": 31,
+        "id": 41,
         "nome": "Lipslide",
         "descricao": "Similar ao boardslide, mas com entrada oposta."
       },
       {
-        "id": 32,
+        "id": 42,
         "nome": "Blunt Stall",
         "descricao": "Parada no topo do obstáculo com o tail."
       },
       {
-        "id": 33,
+        "id": 43,
         "nome": "50-50 Grind",
         "descricao": "Grind equilibrado nos dois eixos."
       },
       {
-        "id": 34,
+        "id": 44,
         "nome": "Casper Flip",
         "descricao": "Flip que finaliza com o shape virado."
       },
       {
-        "id": 35,
+        "id": 45,
         "nome": "Primo Slide",
         "descricao": "Deslizar sobre as laterais do shape."
       },
       {
-        "id": 36,
+        "id": 46,
         "nome": "Smith Grind",
         "descricao": "Grind com o eixo traseiro abaixo do corrimão."
       },
       {
-        "id": 37,
+        "id": 47,
         "nome": "Feeble Grind",
         "descricao": "Eixo dianteiro passando abaixo do obstáculo."
       },
       {
-        "id": 38,
+        "id": 48,
         "nome": "Nose Grind",
         "descricao": "Grind equilibrando no eixo dianteiro."
       },
       {
-        "id": 39,
+        "id": 49,
         "nome": "Pressure Flip",
         "descricao": "Flip gerado pela pressão do pé sem pop."
       },
       {
-        "id": 40,
+        "id": 50,
         "nome": "Kickflip Indy Grab",
         "descricao": "Kickflip com um grab no ar."
+      },
+      {
+        "id": 51,
+        "nome": "Inward Heelflip",
+        "descricao": "Heelflip com rotação inversa do shape."
+      },
+      {
+        "id": 52,
+        "nome": "Frontside Boardslide",
+        "descricao": "Boardslide com aproximação frontside."
+      },
+      {
+        "id": 53,
+        "nome": "Nollie Heelflip",
+        "descricao": "Heelflip partindo do nollie."
+      },
+      {
+        "id": 54,
+        "nome": "Switch Kickflip",
+        "descricao": "Kickflip na base oposta."
+      },
+      {
+        "id": 55,
+        "nome": "Sal Flip",
+        "descricao": "Flip combinado com giro de corpo de 180°."
+      },
+      {
+        "id": 56,
+        "nome": "Noseblunt Slide",
+        "descricao": "Slide no obstáculo usando o nose."
+      },
+      {
+        "id": 57,
+        "nome": "5-0 Grind",
+        "descricao": "Grind apenas no eixo traseiro."
+      },
+      {
+        "id": 58,
+        "nome": "Disaster Grind",
+        "descricao": "Grind em quarter pipe com o tail no coping."
+      },
+      {
+        "id": 59,
+        "nome": "Hospital Flip",
+        "descricao": "Flip com giro de 180° vertical."
+      },
+      {
+        "id": 60,
+        "nome": "360 Flip",
+        "descricao": "Tre flip com rotação completa do shape."
       }
     ],
     "avancado": [
       {
-        "id": 41,
+        "id": 61,
         "nome": "Laser Flip",
         "descricao": "360 heelflip com pop especial."
       },
       {
-        "id": 42,
+        "id": 62,
         "nome": "Darkslide",
         "descricao": "Boardslide com o shape virado ao contrário."
       },
       {
-        "id": 43,
+        "id": 63,
         "nome": "McTwist",
         "descricao": "Flip com giro de 540° em rampas."
       },
       {
-        "id": 44,
+        "id": 64,
         "nome": "Caballerial Flip",
         "descricao": "360° fakie combinado com flip."
       },
       {
-        "id": 45,
+        "id": 65,
         "nome": "Muska Flip",
         "descricao": "Hardflip com execução única."
       },
       {
-        "id": 46,
+        "id": 66,
         "nome": "Gazelle Spin",
         "descricao": "Bigspin com rotação extra do corpo."
       },
       {
-        "id": 47,
+        "id": 67,
         "nome": "Bacon Flip",
         "descricao": "Kickflip com rotação irregular e solta."
       },
       {
-        "id": 48,
+        "id": 68,
         "nome": "Backside Overcrook",
         "descricao": "Grind técnico com entrada difícil."
       },
       {
-        "id": 49,
+        "id": 69,
         "nome": "Frontside Bluntslide",
         "descricao": "Bluntslide realizado no lado frontside."
       },
       {
-        "id": 50,
+        "id": 70,
         "nome": "Nollie Hardflip",
         "descricao": "Hardflip partindo da posição nollie."
       },
       {
-        "id": 51,
-        "nome": "Fakie Bigspin Flip",
-        "descricao": "Bigspin combinado com um flip partindo do fakie."
+        "id": 71,
+        "nome": "360 Flip Nose Manual",
+        "descricao": "Tre flip seguido de nose manual."
       },
       {
-        "id": 52,
+        "id": 72,
+        "nome": "Nollie Laser Flip",
+        "descricao": "Laser flip partindo do nollie."
+      },
+      {
+        "id": 73,
+        "nome": "Switch Darkslide",
+        "descricao": "Darkslide na base trocada."
+      },
+      {
+        "id": 74,
+        "nome": "Double Kickflip",
+        "descricao": "Dois flips completos em uma única manobra."
+      },
+      {
+        "id": 75,
+        "nome": "Frontside 360 Shove-it",
+        "descricao": "Shove-it de 360° com giro frontside."
+      },
+      {
+        "id": 76,
+        "nome": "Nightmare Flip",
+        "descricao": "Combinação de hardflip com backside 180."
+      },
+      {
+        "id": 77,
+        "nome": "Varial Heelflip Late Flip",
+        "descricao": "Varial heelflip com flip adicional no ar."
+      },
+      {
+        "id": 78,
+        "nome": "Nollie Inward Heelflip",
+        "descricao": "Inward heelflip partindo do nollie."
+      },
+      {
+        "id": 79,
+        "nome": "Backside 360 Flip",
+        "descricao": "Tre flip com giro de corpo backside 360."
+      },
+      {
+        "id": 80,
+        "nome": "Frontside Feeble Grind",
+        "descricao": "Feeble grind com aproximação frontside."
+      },
+      {
+        "id": 81,
+        "nome": "Nosegrind to Crooked",
+        "descricao": "Transição de nosegrind para crooked grind."
+      },
+      {
+        "id": 82,
+        "nome": "Varial Flip Nose Manual",
+        "descricao": "Varial flip seguido de nose manual."
+      },
+      {
+        "id": 83,
+        "nome": "Switch Laser Flip",
+        "descricao": "Laser flip na base trocada."
+      },
+      {
+        "id": 84,
+        "nome": "540 Shove-it",
+        "descricao": "Shove-it com rotação completa de 540°."
+      },
+      {
+        "id": 85,
+        "nome": "Hardflip Late Backfoot Flip",
+        "descricao": "Hardflip com flip adicional executado com o pé traseiro."
+      },
+      {
+        "id": 86,
+        "nome": "Nollie Gazelle Spin",
+        "descricao": "Gazelle spin partindo do nollie."
+      },
+      {
+        "id": 87,
+        "nome": "Frontside 360 Flip",
+        "descricao": "Tre flip com giro frontside completo."
+      },
+      {
+        "id": 88,
+        "nome": "Backside Tailslide",
+        "descricao": "Tailslide com aproximação backside."
+      },
+      {
+        "id": 89,
+        "nome": "Nollie Backside Bigspin",
+        "descricao": "Bigspin backside partindo do nollie."
+      },
+      {
+        "id": 90,
         "nome": "Switch 360 Flip",
-        "descricao": "Tre flip realizado na base trocada."
-      },
-      {
-        "id": 53,
-        "nome": "Kickflip Roast Beef Grab",
-        "descricao": "Kickflip combinado com um grab estilo Roast Beef."
-      },
-      {
-        "id": 54,
-        "nome": "Triple Heelflip",
-        "descricao": "Heelflip com três rotações completas."
-      },
-      {
-        "id": 55,
-        "nome": "Frontside 360 Ollie",
-        "descricao": "Giro completo de 360° no ar na direção frontside."
-      },
-      {
-        "id": 56,
-        "nome": "Backside 360 Ollie",
-        "descricao": "Giro completo de 360° no ar na direção backside."
-      },
-      {
-        "id": 57,
-        "nome": "Nollie 360 Flip",
-        "descricao": "Tre flip partindo do nollie, exigindo controle máximo."
-      },
-      {
-        "id": 58,
-        "nome": "Pressure Hardflip",
-        "descricao": "Hardflip gerado apenas pela pressão dos pés, sem pop."
-      },
-      {
-        "id": 59,
-        "nome": "Frontside Overcrook",
-        "descricao": "Grind técnico desafiador com entrada frontal."
-      },
-      {
-        "id": 60,
-        "nome": "Switch Bigspin Heel",
-        "descricao": "Bigspin heel realizado na base switch."
+        "descricao": "Tre flip executado na base trocada."
       }
     ]
   }
